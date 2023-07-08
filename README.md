@@ -48,13 +48,13 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/https://github.com/agakhanyantsartur" target="_blank">
+<a href="https://github.com/agakhanyantsartur" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/https://instagram.com/artur_skylover?igshid=ZDdkNTZiNTM=" target="_blank">
+<a href="https://instagram.com/artur_skylover" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/artur-agakhanyants-030713251" target="_blank">
+<a href="https://linkedin.com/in/artur-agakhanyants-030713251" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -74,7 +74,7 @@
 
 <br/>  
 
-<div align="center"><img src="[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31evdo7mwrfudx6xttutkrtuejji&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31evdo7mwrfudx6xttutkrtuejji&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" /></div>  
+![Listening to on Spotify]([[https://spotify-github-profile.vercel.app/api/view.svg?uid=31evdo7mwrfudx6xttutkrtuejji&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31evdo7mwrfudx6xttutkrtuejji&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true)  
 
 <br/>  
 
