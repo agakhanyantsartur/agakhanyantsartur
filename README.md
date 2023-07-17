@@ -1,4 +1,4 @@
-## Github Stats  
+
 # <div align="center">Hello! My name is Artur and I am a Front-End Developer</div>  
   
 
@@ -68,14 +68,10 @@
 <br/>  
 
 
-## Recent Blog Posts  
+  
   
 
-<br/>  
-
-![Listening to on Spotify]([[https://spotify-github-profile.vercel.app/api/view.svg?uid=31evdo7mwrfudx6xttutkrtuejji&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31evdo7mwrfudx6xttutkrtuejji&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true)  
-
-<br/>  
+ 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=agakhanyantsartur&&style=flat-square" align="center" />
