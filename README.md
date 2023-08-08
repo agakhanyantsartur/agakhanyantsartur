@@ -4,7 +4,7 @@
 - ### I am currently learning MERN stack and working on creating projects using React & Next.js  
   
 
-- ### My portfolio: [click here](http://agakhanyantsartur.github.io)  
+- ### My portfolio: [click here](http://arturagakhanyants.vercel.app)  
   
 
 <br/>  
