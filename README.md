@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="210" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
-</div>
-
-###
-
 <h2 align="left">Hi 👋 I'm Artur<br>Front-End Developer</h2>
 
 ###
