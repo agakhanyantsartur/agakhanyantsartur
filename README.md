@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Creating & fixing bugs since Sep 2022<br>📚 I'm currently learning and mastering: React & Javascriptbr>🎯 Goals: Will not say<br>🎲 Fun fact: I am an aviation and sky lover :)</p>
+<p align="left">💻 Creating & fixing bugs since Sep 2022<br>📚 I'm currently learning and mastering: React & Javascript<br>🎯 Goals: Will not say<br>🛫 Fun fact: I am an aviation and sky lover :)</p>
 
 ###
 
