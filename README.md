@@ -47,6 +47,8 @@
 
 ###
 
+<h2 align="left">Contact me</h2>
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/artur-agakhanyants-030713251" target="_blank">
