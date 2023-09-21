@@ -2,14 +2,6 @@
 
 ###
 
-<h3 align="left">About me</h3>
-
-###
-
-<h4 align="left">✨ Creating bugs since September 2022.<br>📚 I'm currently working on creating Web Applications.<br>🎯 Goals: I have many of them.<br>✈ Real fact: I am an Aviation enthusiast.</h4>
-
-###
-
 <h3 align="left">My skills set</h3>
 
 ###
