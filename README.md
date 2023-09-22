@@ -1,4 +1,4 @@
-<h3 align="left">Hi there👋<br>My name is Artur Agakhanyats<br>I am a Front-end Developer from Uzbekistan!</h3>
+<h3 align="left">Hi!👋<br>My name is Artur Agakhanyats<br>I am a Front-end Developer from Uzbekistan!</h3>
 
 ###
 
